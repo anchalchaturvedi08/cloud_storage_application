@@ -113,10 +113,9 @@ Replace the placeholders with your Appwrite credentials.
 
 ---
 
-```
 <div align="center">
 
-### 🌩️ Cloudify — Simple. Secure. Smart.
+## 🌩️ Cloudify — Simple. Secure. Smart.
 
 *Built with ❤️ using Next.js, TypeScript, and Appwrite.*
 
